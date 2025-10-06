@@ -39,7 +39,7 @@ cd Liver-Tumor-Segmentation-using-MONAI-
 ```
 
 ## Results
-- See `results.png` for an example segmentation output.
+- See `results.png` for the training curves and metrics.
 - Validation Dice scores are stored in `dice_scores_val (1).csv`.
 
 ## Notes
