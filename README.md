@@ -41,6 +41,9 @@ cd Liver-Tumor-Segmentation-using-MONAI-
 ## Results
 - See `results.png` for the training curves and metrics.
 - Validation Dice scores are stored in `dice_scores_val (1).csv`.
+- Example Results
+- Red: Predicted Tumor, Green: Ground Truth Tumor 
+- <img width="313" height="390" alt="Screen Shot 2025-10-04 at 00 04 38 AM" src="https://github.com/user-attachments/assets/e3c27953-25b0-48b2-b2ec-a0c7c4cd0ae0" />
 
 ## Notes
 - MONAI docs: https://docs.monai.io/
